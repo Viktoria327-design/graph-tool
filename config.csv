@@ -1,0 +1,7 @@
+# параметр,значение
+package_name,com.google.code.gson:gson:2.10.1
+repo_url,https://repo1.maven.org/maven2
+test_mode,false
+output_file,graph.png
+max_depth,3
+filter_substring,

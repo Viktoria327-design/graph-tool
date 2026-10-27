@@ -1,0 +1,7 @@
+# тестовый режим: пакеты — большие латинские буквы
+package_name,A
+repo_url,test_repo.txt
+test_mode,true
+output_file,graph_test.png
+max_depth,3
+filter_substring,
